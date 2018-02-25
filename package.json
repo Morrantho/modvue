@@ -1,0 +1,19 @@
+{
+  "name": "modvue",
+  "version": "1.0.0",
+  "description": "Creates class-based Modular Components for VueJS",
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "keywords": [
+  ],
+  "bin": {
+    "modvue": "index.js"
+  },
+  "author": "Tony Morris",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.2.0"
+  }
+}
